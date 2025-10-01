@@ -52,7 +52,7 @@ function App() {
               
               {/* Twitter Button */}
               <a
-                href="https://x.com/hornyidentity_"
+                href="https://x.com/hornyprotocol"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center space-x-2 px-3 py-1 lg:px-4 lg:py-2 border border-terminal-green hover:bg-terminal-green hover:text-black transition-colors duration-300 shadow-glow hover:shadow-glow-md w-fit"
